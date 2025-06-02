@@ -23,7 +23,7 @@ const App = () => {
   return (
     <BrowserRouter>
       {/* <AutoScroll /> */}
-      <Navbar />
+      {/* <Navbar /> */}
       <ScrollUp />
       <Cursor />
       <Routes>
