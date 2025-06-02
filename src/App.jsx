@@ -22,8 +22,8 @@ import AutoScroll from "./newComponents/AutoScroll";
 const App = () => {
   return (
     <BrowserRouter>
-      {/* <AutoScroll /> */}
-      {/* <Navbar /> */}
+      <AutoScroll />
+      <Navbar />
       <ScrollUp />
       <Cursor />
       <Routes>
